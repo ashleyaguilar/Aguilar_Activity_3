@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Aguilar_Activity_3"
